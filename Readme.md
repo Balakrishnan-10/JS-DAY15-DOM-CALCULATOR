@@ -2,11 +2,20 @@
 
 ## VERCEL DEPLOYMENT LINK : https://js-day-15-dom-calculator.vercel.app/
 
-![Alt text](https://github.com/Balakrishnan-10/JS-DAY15-DOM-CALCULATOR/blob/main/Screenshot%20.png)
-https://github.com/Balakrishnan-10/JS-DAY15-DOM-CALCULATOR/blob/main/Screenshot%20.png
 ## DOCUMENT OBJECT MODEL :
 >IMPORTANT
 >Document Object Model (DOM) is a programming interface that allows programs to interact with web documents. It represents a document as a logical tree of nodes and objects, which allows developers to change the document's structure, style, and content.
+
+![Alt text](https://github.com/Balakrishnan-10/JS-DAY15-DOM-CALCULATOR/blob/main/Screenshot%20.png)
+
+## Git Commands :
+```
+Git init
+Git add .
+Git commit -m "Task Name"
+Git branch -M main
+Git push -u main
+```
 
 ## Languages :
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
