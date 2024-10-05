@@ -2,6 +2,8 @@
 
 ## VERCEL DEPLOYMENT LINK : https://js-day-15-dom-calculator.vercel.app/
 
+![Alt text](https://github.com/Balakrishnan-10/JS-DAY15-DOM-CALCULATOR/blob/main/Screenshot%20.png)
+https://github.com/Balakrishnan-10/JS-DAY15-DOM-CALCULATOR/blob/main/Screenshot%20.png
 ## DOCUMENT OBJECT MODEL :
 >IMPORTANT
 >Document Object Model (DOM) is a programming interface that allows programs to interact with web documents. It represents a document as a logical tree of nodes and objects, which allows developers to change the document's structure, style, and content.
