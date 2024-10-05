@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Playwrite+DE+Grund:wght@100..400&display=swap");
+
+*{
+    margin:0;
+    padding:10px;
+    box-sizing: border-box;
+    font-family: "Playwrite DE Grund", cursive;
+    outline: none;
+}
+h1,p {
+   color: rgb(0,0,255) !important;;
+   font-weight: 50px;
+}
+p {
+  font-size: 1.5rem !important;
+}
+#container {
+  margin-top: 30px !important;
+}
+#calculator {
+  grid-template-columns: auto auto auto auto;
+  background-color: aqua;
+  gap: 10px !important;
+}
+
+#result {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  font-size:large ;
+}
+
+#equal{
+  grid-column-start: 3;
+  grid-column-end: 5;
+}
+
+button {
+ color: #050512;
+ background-color: bisque;
+ }
